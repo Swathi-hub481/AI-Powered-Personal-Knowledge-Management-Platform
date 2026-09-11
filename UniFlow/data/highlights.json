@@ -1,0 +1,173 @@
+[
+  {
+    "id": "https://www.w3schools.com/sql/sql_intro.asp::SQL Introduction::2026-03-06T19:49:51.182Z::What is SQL?\nSQL is a standard language for accessing and manipulating databases.\n\n  SQL stands for Structured Query Language\n  SQL lets you access and manipulate databases\n  SQL became a standard of the American National Standards Institute (ANSI) \n  in 1986, and of the International Organization for Standardization (ISO) in \n  1987",
+    "text": "What is SQL?\nSQL is a standard language for accessing and manipulating databases.\n\n  SQL stands for Structured Query Language\n  SQL lets you access and manipulate databases\n  SQL became a standard of the American National Standards Institute (ANSI) \n  in 1986, and of the International Organization for Standardization (ISO) in \n  1987",
+    "url": "https://www.w3schools.com/sql/sql_intro.asp",
+    "title": "SQL Introduction",
+    "createdAt": "2026-03-06T19:49:51.182Z",
+    "isActive": true,
+    "tags": []
+  },
+  {
+    "id": "https://www.w3schools.com/sql/sql_intro.asp::SQL Introduction::2026-03-06T19:58:33.998Z::What Can SQL do?\n\n  SQL can execute queries against a database\n  SQL can retrieve data from a database\n  SQL can insert records in a database\n  SQL can update records in a database\n  SQL can delete records from a database\n  SQL can create new databases\n  SQL can create new tables in a database\n  SQL can create stored procedures in a database\n  SQL can create views in a database\n  SQL can set permissions on tables, procedures, and views",
+    "text": "What Can SQL do?\n\n  SQL can execute queries against a database\n  SQL can retrieve data from a database\n  SQL can insert records in a database\n  SQL can update records in a database\n  SQL can delete records from a database\n  SQL can create new databases\n  SQL can create new tables in a database\n  SQL can create stored procedures in a database\n  SQL can create views in a database\n  SQL can set permissions on tables, procedures, and views",
+    "url": "https://www.w3schools.com/sql/sql_intro.asp",
+    "title": "SQL Introduction",
+    "createdAt": "2026-03-06T19:58:33.998Z",
+    "isActive": false,
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/Museum_of_Fine_Arts%2C_Boston::Museum of Fine Arts, Boston - Wikipedia::2026-03-08T15:26:10.484Z::The Museum of Fine Arts (often abbreviated as MFA Boston or MFA) is an art museum in Boston, Massachusetts. It is the 20th-largest art museum in the world, measured by public gallery area. It contains 8,161 paintings and more than 450,000 works of art, making it one of the most comprehensive collections in the Americas. With more than 1.2 million visitors a year,[2] it is the 83rd-most-visited art museum in the world as of 2024[update].",
+    "text": "The Museum of Fine Arts (often abbreviated as MFA Boston or MFA) is an art museum in Boston, Massachusetts. It is the 20th-largest art museum in the world, measured by public gallery area. It contains 8,161 paintings and more than 450,000 works of art, making it one of the most comprehensive collections in the Americas. With more than 1.2 million visitors a year,[2] it is the 83rd-most-visited art museum in the world as of 2024[update].",
+    "url": "https://en.wikipedia.org/wiki/Museum_of_Fine_Arts%2C_Boston",
+    "title": "Museum of Fine Arts, Boston - Wikipedia",
+    "createdAt": "2026-03-08T15:26:10.484Z",
+    "isActive": false,
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/Arthropod::Arthropod - Wikipedia::2026-03-08T15:28:51.762Z::Haemolymph is the analogue of blood for most arthropods.  An arthropod has an open circulatory system, with a body cavity called a haemocoel through which haemolymph circulates to the interior organs. Like their exteriors, the internal organs of arthropods are generally built of repeated segments. They have ladder-like nervous systems, with paired ventral nerve cords running through all segments and forming paired ganglia in each segment. Their heads are formed by fusion of varying numbers of segments, and their brains are formed by fusion of the ganglia of these segments and encircle the esophagus. The respiratory and excretory systems of arthropods vary, depending as much on their environment as on the subphylum to which they belong.",
+    "text": "Haemolymph is the analogue of blood for most arthropods.  An arthropod has an open circulatory system, with a body cavity called a haemocoel through which haemolymph circulates to the interior organs. Like their exteriors, the internal organs of arthropods are generally built of repeated segments. They have ladder-like nervous systems, with paired ventral nerve cords running through all segments and forming paired ganglia in each segment. Their heads are formed by fusion of varying numbers of segments, and their brains are formed by fusion of the ganglia of these segments and encircle the esophagus. The respiratory and excretory systems of arthropods vary, depending as much on their environment as on the subphylum to which they belong.",
+    "url": "https://en.wikipedia.org/wiki/Arthropod",
+    "title": "Arthropod - Wikipedia",
+    "createdAt": "2026-03-08T15:28:51.762Z",
+    "isActive": false,
+    "tags": [
+      "Biology",
+      "AI"
+    ]
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/Arthropod::Arthropod - Wikipedia::2026-03-08T15:28:56.770Z::Arthropods use combinations of compound eyes and pigment-pit ocelli for vision. In most species, the ocelli can only detect the direction from which light is coming, and the compound eyes are the main source of information; however, in spiders, the main eyes are ocelli that can form images and, in a few cases, can swivel to track prey. Arthropods also have a wide range of chemical and mechanical sensors, mostly based on modifications of the many bristles known as setae that project through their cuticles. Similarly, their reproduction and development are varied; all terrestrial species use internal fertilization, but this is sometimes by indirect transfer of the sperm via an appendage or the ground, rather than by direct injection.",
+    "text": "Arthropods use combinations of compound eyes and pigment-pit ocelli for vision. In most species, the ocelli can only detect the direction from which light is coming, and the compound eyes are the main source of information; however, in spiders, the main eyes are ocelli that can form images and, in a few cases, can swivel to track prey. Arthropods also have a wide range of chemical and mechanical sensors, mostly based on modifications of the many bristles known as setae that project through their cuticles. Similarly, their reproduction and development are varied; all terrestrial species use internal fertilization, but this is sometimes by indirect transfer of the sperm via an appendage or the ground, rather than by direct injection.",
+    "url": "https://en.wikipedia.org/wiki/Arthropod",
+    "title": "Arthropod - Wikipedia",
+    "createdAt": "2026-03-08T15:28:56.770Z",
+    "isActive": false,
+    "tags": [
+      "Biology",
+      "AI",
+      "Technology"
+    ]
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/Death_Note::Death Note - Wikipedia::2026-03-08T17:59:51.611Z::Death Note is a Japanese manga series written by Tsugumi Ohba and illustrated by Takeshi Obata. It was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from December 2003 to May 2006, with its chapters collected in 12 tankōbon volumes. The story follows Light Yagami, a genius high school student who discovers a mysterious notebook, the Death Note, which belonged to the shinigami Ryuk and kills anyone whose name is written in its pages. The series centers on Light's use of the Death Note to carry out a worldwide massacre of individuals he deems immoral to create a crime-free society, using the alias of a god-like vigilante named Kira, and the efforts of an elite Japanese police task force, led by the detective L, to apprehend him.",
+    "text": "Death Note is a Japanese manga series written by Tsugumi Ohba and illustrated by Takeshi Obata. It was serialized in Shueisha's shōnen manga magazine Weekly Shōnen Jump from December 2003 to May 2006, with its chapters collected in 12 tankōbon volumes. The story follows Light Yagami, a genius high school student who discovers a mysterious notebook, the Death Note, which belonged to the shinigami Ryuk and kills anyone whose name is written in its pages. The series centers on Light's use of the Death Note to carry out a worldwide massacre of individuals he deems immoral to create a crime-free society, using the alias of a god-like vigilante named Kira, and the efforts of an elite Japanese police task force, led by the detective L, to apprehend him.",
+    "url": "https://en.wikipedia.org/wiki/Death_Note",
+    "title": "Death Note - Wikipedia",
+    "createdAt": "2026-03-08T17:59:51.611Z",
+    "isActive": false,
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/Death_Note::Death Note - Wikipedia::2026-03-08T18:00:07.775Z::Death Note media, except for video games and soundtracks, is licensed and released in North America by Viz Media. The anime series was first made available in North America as downloadable from IGN before Viz Media licensed it. The series aired on YTV's Bionix programming block in Canada and on Adult Swim in the United States, with a DVD release following shortly after. The live-action films briefly showed in certain North American theaters in 2008 before receiving home video releases. By April 2015, the Death Note manga had over 30 million copies in circulation, making it one of the best-selling manga series.",
+    "text": "Death Note media, except for video games and soundtracks, is licensed and released in North America by Viz Media. The anime series was first made available in North America as downloadable from IGN before Viz Media licensed it. The series aired on YTV's Bionix programming block in Canada and on Adult Swim in the United States, with a DVD release following shortly after. The live-action films briefly showed in certain North American theaters in 2008 before receiving home video releases. By April 2015, the Death Note manga had over 30 million copies in circulation, making it one of the best-selling manga series.",
+    "url": "https://en.wikipedia.org/wiki/Death_Note",
+    "title": "Death Note - Wikipedia",
+    "createdAt": "2026-03-08T18:00:07.775Z",
+    "isActive": false,
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/Death_Note::Death Note - Wikipedia::2026-03-08T18:00:14.296Z::A 37-episode anime television series adaptation, produced by Madhouse and directed by Tetsurō Araki, was broadcast on Nippon Television from October 2006 to June 2007. A light novel based on the series, written by Nisio Isin, was released in 2006. Various Death Note video games have been published by Konami for the Nintendo DS. The series was adapted into three live-action films released in Japan in June, November 2006, and February 2008, and a television drama in 2015. The miniseries Death Note: New Generation and a fourth film were released in 2016. An American film adaptation was released exclusively on Netflix in August 2017, and a series is reportedly in the works. Two one-shot manga sequels, C-Kira and a-Kira, were published in 2008 and 2020; they were later collected in a single volume, Death Note: Short Stories, alongside other standalone stories, in 2021. An online social deduction game, Death Note: Killer Within, was released by Bandai Namco Entertainment for the PlayStation 5, PlayStation 4, and Windows via Steam in 2024",
+    "text": "A 37-episode anime television series adaptation, produced by Madhouse and directed by Tetsurō Araki, was broadcast on Nippon Television from October 2006 to June 2007. A light novel based on the series, written by Nisio Isin, was released in 2006. Various Death Note video games have been published by Konami for the Nintendo DS. The series was adapted into three live-action films released in Japan in June, November 2006, and February 2008, and a television drama in 2015. The miniseries Death Note: New Generation and a fourth film were released in 2016. An American film adaptation was released exclusively on Netflix in August 2017, and a series is reportedly in the works. Two one-shot manga sequels, C-Kira and a-Kira, were published in 2008 and 2020; they were later collected in a single volume, Death Note: Short Stories, alongside other standalone stories, in 2021. An online social deduction game, Death Note: Killer Within, was released by Bandai Namco Entertainment for the PlayStation 5, PlayStation 4, and Windows via Steam in 2024",
+    "url": "https://en.wikipedia.org/wiki/Death_Note",
+    "title": "Death Note - Wikipedia",
+    "createdAt": "2026-03-08T18:00:14.296Z",
+    "isActive": false,
+    "tags": [
+      "Biology",
+      "AI"
+    ]
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/Death_Note::Death Note - Wikipedia::2026-03-08T18:00:20.522Z::Actress-model Misa Amane obtains a second Death Note from a shinigami named Rem and makes a deal for shinigami eyes, which reveal the names of anyone whose face she sees, at the cost of half her remaining lifespan. Deeply admiring Kira and seeking him to become her boyfriend, Misa uncovers Kira's identity as Light. Light uses her love for him to his advantage, intending to use Misa's shinigami eyes to discern L's true name. L deduces that Misa is likely the second Kira and detains her. Rem threatens to kill Light if he does not find a way to save Misa. Light arranges a scheme in which he and Misa temporarily lose their memories of the Death Note, and has Rem pass the Death Note to Kyosuke Higuchi of the Yotsuba Group.",
+    "text": "Actress-model Misa Amane obtains a second Death Note from a shinigami named Rem and makes a deal for shinigami eyes, which reveal the names of anyone whose face she sees, at the cost of half her remaining lifespan. Deeply admiring Kira and seeking him to become her boyfriend, Misa uncovers Kira's identity as Light. Light uses her love for him to his advantage, intending to use Misa's shinigami eyes to discern L's true name. L deduces that Misa is likely the second Kira and detains her. Rem threatens to kill Light if he does not find a way to save Misa. Light arranges a scheme in which he and Misa temporarily lose their memories of the Death Note, and has Rem pass the Death Note to Kyosuke Higuchi of the Yotsuba Group.",
+    "url": "https://en.wikipedia.org/wiki/Death_Note",
+    "title": "Death Note - Wikipedia",
+    "createdAt": "2026-03-08T18:00:20.522Z",
+    "isActive": false,
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/Death_Note::Death Note - Wikipedia::2026-03-08T18:00:26.274Z::In Tokyo, brilliant yet disaffected high school student Light Yagami finds the \"Death Note\", a mysterious black notebook with rules that can end anyone's life in seconds if their name is written in it, as long as the writer knows both the target's true name and face. Light uses the notebook to kill high-profile criminals and is visited by Ryuk, a shinigami and the Death Note's original owner. Ryuk, invisible to anyone who has not touched the notebook, reveals that he dropped the notebook into the human world out of boredom and is amused by Light's actions.[5]",
+    "text": "In Tokyo, brilliant yet disaffected high school student Light Yagami finds the \"Death Note\", a mysterious black notebook with rules that can end anyone's life in seconds if their name is written in it, as long as the writer knows both the target's true name and face. Light uses the notebook to kill high-profile criminals and is visited by Ryuk, a shinigami and the Death Note's original owner. Ryuk, invisible to anyone who has not touched the notebook, reveals that he dropped the notebook into the human world out of boredom and is amused by Light's actions.[5]",
+    "url": "https://en.wikipedia.org/wiki/Death_Note",
+    "title": "Death Note - Wikipedia",
+    "createdAt": "2026-03-08T18:00:26.274Z",
+    "isActive": false,
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/Death_Note::Death Note - Wikipedia::2026-03-08T18:00:35.564Z::Global media suggest that a single mastermind is responsible for the mysterious murders and name them \"Kira\" (キラ; the Japanese transliteration of the word \"killer\"). Interpol requests the assistance of the enigmatic detective L to assist in their investigation. L tricks Light into revealing that he is in the Kanto region of Japan by manipulating him to kill a decoy. Light vows to kill L, whom he views as obstructing his plans. L deduces that Kira has inside knowledge of the Japanese police investigation, led by Light's father, Soichiro Yagami. L assigns a team of FBI agents to monitor the families of those connected with the investigation and designates Light as the prime suspect. Light graduates from high school to college. L recruits Light into the Kira Task Force.",
+    "text": "Global media suggest that a single mastermind is responsible for the mysterious murders and name them \"Kira\" (キラ; the Japanese transliteration of the word \"killer\"). Interpol requests the assistance of the enigmatic detective L to assist in their investigation. L tricks Light into revealing that he is in the Kanto region of Japan by manipulating him to kill a decoy. Light vows to kill L, whom he views as obstructing his plans. L deduces that Kira has inside knowledge of the Japanese police investigation, led by Light's father, Soichiro Yagami. L assigns a team of FBI agents to monitor the families of those connected with the investigation and designates Light as the prime suspect. Light graduates from high school to college. L recruits Light into the Kira Task Force.",
+    "url": "https://en.wikipedia.org/wiki/Death_Note",
+    "title": "Death Note - Wikipedia",
+    "createdAt": "2026-03-08T18:00:35.564Z",
+    "isActive": false,
+    "tags": []
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/United_Nations::United Nations - Wikipedia::2026-03-08T19:32:17.812Z::The United Nations headquarters is located in New York City, with several other offices located in Geneva, Nairobi, Vienna, and The Hague. The UN comprises six principal organizations: the General Assembly, the Security Council, the Economic and Social Council, the International Court of Justice, the Secretariat, and the Trusteeship Council which, together with several specialized agencies and related agencies, make up the United Nations System. There are in total 193 member states, representing nearly all of the world's sovereign states, as well as two observer states, the Holy See and Palestine.",
+    "text": "The United Nations headquarters is located in New York City, with several other offices located in Geneva, Nairobi, Vienna, and The Hague. The UN comprises six principal organizations: the General Assembly, the Security Council, the Economic and Social Council, the International Court of Justice, the Secretariat, and the Trusteeship Council which, together with several specialized agencies and related agencies, make up the United Nations System. There are in total 193 member states, representing nearly all of the world's sovereign states, as well as two observer states, the Holy See and Palestine.",
+    "url": "https://en.wikipedia.org/wiki/United_Nations",
+    "title": "United Nations - Wikipedia",
+    "createdAt": "2026-03-08T19:32:17.812Z",
+    "isActive": false,
+    "tags": [
+      "Biology",
+      "AI"
+    ]
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/United_Nations::United Nations - Wikipedia::2026-03-08T19:32:23.647Z::The United Nations (UN) is a global intergovernmental organization established by the signing of the UN Charter on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals.",
+    "text": "The United Nations (UN) is a global intergovernmental organization established by the signing of the UN Charter on 26 June 1945 with the articulated mission of maintaining international peace and security, to develop friendly relations among states, to promote international cooperation, and to serve as a centre for harmonizing the actions of states in achieving those goals.",
+    "url": "https://en.wikipedia.org/wiki/United_Nations",
+    "title": "United Nations - Wikipedia",
+    "createdAt": "2026-03-08T19:32:23.647Z",
+    "isActive": false,
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/United_Nations::United Nations - Wikipedia::2026-03-08T19:32:30.620Z::The UN has primarily focused on economic and social development, particularly during the wave of decolonization in the mid-20th century. The UN currently operates 11 peacekeeping missions, by order of inception, in the Middle East, Kashmir, Cyprus, the Golan Heights, Lebanon, the Western Sahara, Kosovo, Democratic Republic of the Congo, Sudan, South Sudan, and the Central African Republic. The UN has been recognized as a leader of peace and human development, with many officers and agencies having been awarded the Nobel Peace Prize, but has also been criticized for perceived ineffectiveness, bias, and corruption.",
+    "text": "The UN has primarily focused on economic and social development, particularly during the wave of decolonization in the mid-20th century. The UN currently operates 11 peacekeeping missions, by order of inception, in the Middle East, Kashmir, Cyprus, the Golan Heights, Lebanon, the Western Sahara, Kosovo, Democratic Republic of the Congo, Sudan, South Sudan, and the Central African Republic. The UN has been recognized as a leader of peace and human development, with many officers and agencies having been awarded the Nobel Peace Prize, but has also been criticized for perceived ineffectiveness, bias, and corruption.",
+    "url": "https://en.wikipedia.org/wiki/United_Nations",
+    "title": "United Nations - Wikipedia",
+    "createdAt": "2026-03-08T19:32:30.620Z",
+    "isActive": false,
+    "tags": []
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/United_Nations::United Nations - Wikipedia::2026-03-08T20:05:39.884Z::In the century prior to the UN's creation, several international organizations such as the International Committee of the Red Cross were formed to ensure protection and assistance for victims of armed conflict and strife.[4]",
+    "text": "In the century prior to the UN's creation, several international organizations such as the International Committee of the Red Cross were formed to ensure protection and assistance for victims of armed conflict and strife.[4]",
+    "url": "https://en.wikipedia.org/wiki/United_Nations",
+    "title": "United Nations - Wikipedia",
+    "createdAt": "2026-03-08T20:05:39.884Z",
+    "isActive": false,
+    "tags": []
+  },
+  {
+    "id": "https://en.wikipedia.org/wiki/United_Nations::United Nations - Wikipedia::2026-03-08T20:05:44.424Z::During World War I, several major leaders, especially U.S. president Woodrow Wilson, advocated for a world body to guarantee peace. The winners of the war, the Allies, met to decide on formal peace terms at the Paris Peace Conference. The League of Nations was approved and started operations, but the United States never joined. On 10 January 1920, the League of Nations formally came into being when the Covenant of the League of Nations, ratified by 42 nations in 1919, took effect.[5] The League Council acted as an executive body directing the Assembly's business. It began with four permanent members—the United Kingdom, France, Italy, and Japan.",
+    "text": "During World War I, several major leaders, especially U.S. president Woodrow Wilson, advocated for a world body to guarantee peace. The winners of the war, the Allies, met to decide on formal peace terms at the Paris Peace Conference. The League of Nations was approved and started operations, but the United States never joined. On 10 January 1920, the League of Nations formally came into being when the Covenant of the League of Nations, ratified by 42 nations in 1919, took effect.[5] The League Council acted as an executive body directing the Assembly's business. It began with four permanent members—the United Kingdom, France, Italy, and Japan.",
+    "url": "https://en.wikipedia.org/wiki/United_Nations",
+    "title": "United Nations - Wikipedia",
+    "createdAt": "2026-03-08T20:05:44.424Z",
+    "isActive": false,
+    "tags": []
+  }
+]

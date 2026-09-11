@@ -1,0 +1,387 @@
+/* ── Login page — Scale-style single centered layout ── */
+
+.lp-scene *,
+.lp-scene *::before,
+.lp-scene *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.lp-scene {
+  position: relative;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  background: #fff;
+  overflow: hidden;
+}
+
+/* ── Subtle gradient wash at the top ─────────────────── */
+.lp-gradient {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 46%;
+  z-index: 0;
+  background:
+    linear-gradient(135deg,
+      #a8e6b4 0%,
+      #7dd4a0 18%,
+      #b8f0c8 34%,
+      #d8f8e8 50%,
+      #e8d8f4 64%,
+      #f0d0b8 78%,
+      #f5e0c0 92%,
+      #fdf6ec 100%
+    );
+  opacity: 0.65;
+  pointer-events: none;
+}
+
+.lp-gradient::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 60%;
+  background: linear-gradient(to top, #fff 0%, transparent 100%);
+}
+
+/* ── Header bar ──────────────────────────────────────── */
+.lp-header {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.4rem 2.4rem;
+}
+
+.lp-wordmark {
+  font-size: 1.25rem;
+  font-weight: 750;
+  letter-spacing: -0.035em;
+  color: #111;
+}
+
+.lp-header-right {
+  font-size: 0.84rem;
+  color: #555;
+}
+
+.lp-header-right button {
+  background: none;
+  border: none;
+  color: #111;
+  font-weight: 700;
+  font-size: inherit;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.lp-header-right button:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* ── Main centered content ───────────────────────────── */
+.lp-main {
+  position: relative;
+  z-index: 2;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1.2rem 5rem;
+}
+
+.lp-title {
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: #222;
+  margin-bottom: 1.8rem;
+}
+
+/* ── Form ────────────────────────────────────────────── */
+.lp-form {
+  width: 100%;
+  max-width: 380px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+/* ── Pill input rows ─────────────────────────────────── */
+.lp-input-row {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.lp-ico {
+  position: absolute;
+  left: 1rem;
+  pointer-events: none;
+  color: #999;
+  flex-shrink: 0;
+}
+
+.lp-input-row input {
+  width: 100%;
+  padding: 0.78rem 1rem 0.78rem 2.7rem;
+  border: 1.5px solid #e0e0e0;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-family: inherit;
+  color: #222;
+  background: #fafafa;
+  outline: none;
+  transition: border-color 0.15s, box-shadow 0.15s, background 0.15s;
+}
+
+.lp-input-row input::placeholder {
+  color: #aaa;
+}
+
+.lp-input-row input:focus {
+  border-color: #16a34a;
+  box-shadow: 0 0 0 3px rgba(22, 163, 74, 0.08);
+  background: #fff;
+}
+
+.lp-has-toggle {
+  padding-right: 2.8rem !important;
+}
+
+.lp-eye {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: transparent;
+  color: #999;
+  cursor: pointer;
+  width: 28px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  transition: background 0.15s, color 0.15s;
+}
+
+.lp-eye:hover {
+  background: rgba(0, 0, 0, 0.05);
+  color: #555;
+}
+
+/* ── Alerts ──────────────────────────────────────────── */
+.lp-alert {
+  width: 100%;
+  max-width: 380px;
+  text-align: center;
+  font-size: 0.84rem;
+  padding: 0.55rem 0.8rem;
+  border-radius: 10px;
+  margin-bottom: 0.4rem;
+}
+
+.lp-alert-err {
+  color: #b91c1c;
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+}
+
+.lp-alert-ok {
+  color: #065f46;
+  background: #ecfdf5;
+  border: 1px solid #a7f3d0;
+}
+
+/* ── Submit button ───────────────────────────────────── */
+.lp-btn {
+  margin-top: 0.3rem;
+  width: 100%;
+  padding: 0.82rem;
+  border: none;
+  border-radius: 999px;
+  background: #111;
+  color: #fff;
+  font-size: 0.92rem;
+  font-weight: 600;
+  font-family: inherit;
+  letter-spacing: 0.005em;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s, box-shadow 0.15s;
+}
+
+.lp-btn:hover:not(:disabled) {
+  background: #000;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+}
+
+.lp-btn:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.lp-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+/* ── Tagline ─────────────────────────────────────────── */
+.lp-tagline {
+  margin-top: 2.5rem;
+  font-size: 0.82rem;
+  font-weight: 400;
+  color: #999;
+  letter-spacing: 0.005em;
+}
+
+/* ── Loading fallback ────────────────────────────────── */
+.lp-loading {
+  min-height: 100svh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Inter, system-ui, sans-serif;
+  color: #16a34a;
+}
+
+/* ── Mobile ──────────────────────────────────────────── */
+@media (max-width: 520px) {
+  .lp-header {
+    padding: 1rem 1.2rem;
+  }
+
+  .lp-wordmark {
+    font-size: 1.1rem;
+  }
+
+  .lp-header-right {
+    font-size: 0.78rem;
+  }
+
+  .lp-title {
+    font-size: 1.05rem;
+  }
+
+  .lp-form {
+    max-width: 340px;
+  }
+}
+
+/* ── Dark mode ───────────────────────────────────────── */
+:root.dark .lp-scene,
+html.dark .lp-scene {
+  background: #060d08;
+}
+
+:root.dark .lp-gradient,
+html.dark .lp-gradient {
+  background:
+    linear-gradient(135deg,
+      #0a3018 0%,
+      #0e4020 18%,
+      #124a28 34%,
+      #0d3518 50%,
+      #1a2030 64%,
+      #2a1a20 78%,
+      #1e1810 92%,
+      #0c0c0c 100%
+    );
+  opacity: 0.7;
+}
+
+:root.dark .lp-gradient::after,
+html.dark .lp-gradient::after {
+  background: linear-gradient(to top, #060d08 0%, transparent 100%);
+}
+
+:root.dark .lp-wordmark,
+html.dark .lp-wordmark {
+  color: #d8f0dc;
+}
+
+:root.dark .lp-header-right,
+html.dark .lp-header-right {
+  color: #6a8a70;
+}
+
+:root.dark .lp-header-right button,
+html.dark .lp-header-right button {
+  color: #a0d8a8;
+}
+
+:root.dark .lp-title,
+html.dark .lp-title {
+  color: #d8f0dc;
+}
+
+:root.dark .lp-input-row input,
+html.dark .lp-input-row input {
+  background: rgba(255, 255, 255, 0.04);
+  border-color: rgba(255, 255, 255, 0.1);
+  color: #d0e8d4;
+}
+
+:root.dark .lp-input-row input::placeholder,
+html.dark .lp-input-row input::placeholder {
+  color: #4a6050;
+}
+
+:root.dark .lp-input-row input:focus,
+html.dark .lp-input-row input:focus {
+  border-color: rgba(22, 163, 74, 0.5);
+  box-shadow: 0 0 0 3px rgba(22, 163, 74, 0.1);
+  background: rgba(255, 255, 255, 0.06);
+}
+
+:root.dark .lp-ico,
+html.dark .lp-ico {
+  color: #4a6050;
+}
+
+:root.dark .lp-eye,
+html.dark .lp-eye {
+  color: #4a6050;
+}
+
+:root.dark .lp-btn,
+html.dark .lp-btn {
+  background: #d8f0dc;
+  color: #060d08;
+}
+
+:root.dark .lp-btn:hover:not(:disabled),
+html.dark .lp-btn:hover:not(:disabled) {
+  background: #e8f8ec;
+  box-shadow: 0 6px 20px rgba(200, 230, 203, 0.12);
+}
+
+:root.dark .lp-tagline,
+html.dark .lp-tagline {
+  color: #3d5842;
+}
+
+:root.dark .lp-alert-err,
+html.dark .lp-alert-err {
+  background: rgba(40, 10, 10, 0.8);
+  color: #f08080;
+  border-color: #5a2020;
+}
+
+:root.dark .lp-alert-ok,
+html.dark .lp-alert-ok {
+  background: rgba(5, 30, 15, 0.8);
+  color: #6ee7a0;
+  border-color: #16a34a;
+}
