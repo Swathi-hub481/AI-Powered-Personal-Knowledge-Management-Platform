@@ -1,7 +1,7 @@
 # 🧠 UniFlow: A Unified AI-Powered Personal Knowledge Management Platform
 
 <p align="center">
-  <img src="Thumbnail(2).png" alt="UniFlow Thumbnail" width="850">
+  <img src="Thumbnail (2).png" alt="UniFlow: Unified AI-Powered Personal Knowledge Hub" width="850">
 </p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
