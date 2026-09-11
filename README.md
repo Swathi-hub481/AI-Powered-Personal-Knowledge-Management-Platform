@@ -109,7 +109,8 @@ UniFlow follows a highly structured **7-Layer Architecture**:
    ```bash
    npm run dev
    ```
-   *The application will be available at `http://localhost:3000`.*
+   LIVE LINK:
+   *The application will be available at `https://assist-note-portal-5kfc.vercel.app/converse`.*
 
 ---
 
