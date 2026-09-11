@@ -1,5 +1,9 @@
 # 🧠 UniFlow: A Unified AI-Powered Personal Knowledge Management Platform
 
+<p align="center">
+  <img src="Thumbnail(2).png" alt="UniFlow Thumbnail" width="850">
+</p>
+
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Enabled-47A248)
 ![Groq](https://img.shields.io/badge/AI-Groq%20%7C%20Kimi%20K2-f36f21)
